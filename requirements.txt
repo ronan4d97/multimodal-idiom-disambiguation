@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+pandas
+numpy
+pillow
+selenium
