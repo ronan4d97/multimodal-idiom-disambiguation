@@ -1,0 +1,223 @@
+mwe,frequent_sense,finegrained
+high life,{1},{'expensive lifestyle'}
+birth rate,{1},{'birth statistic'}
+home run,{0},{'baseball run'}
+public service,{0},{'public help '}
+swan song,{0},{'final performance'}
+banana republic,{0},{'politically unstable country'}
+wedding anniversary,{1},{'marriage celebration'}
+bad apple,{0},{'troublemaker'}
+panda car,{0},{'police car'}
+eager beaver,{0},{'hard worker'}
+rice paper,{0},{'wrapper'}
+chain reaction,"{0, 1}","{'series of events', 'series of reactions'}"
+sex bomb,{0},{'sexy person'}
+health check,{1},{'health evaluation'}
+cotton candy,{0},{'fluffy candy'}
+food market,"{0, 1}","{'grocery store', 'food commodity market'}"
+insurance company,{1},{'insurance provider'}
+pillow slip,{1},{'pillow case'}
+dust storm,{1},{'sand storm'}
+flower child,{0},{'hippie'}
+economic aid,{1},{'financial assistance'}
+fish story,"{0, 1}","{'angle story', 'exaggerated story'}"
+dry land,"{0, 1}","{'terra firma', 'dry ground'}"
+private eye,{0},{'detective'}
+bow tie,{1},{'tie'}
+closed book,"{0, 1}","{'mystery', 'shut book'}"
+mental disorder,{1},{'psychological disorder'}
+bad hat,"{0, 1}","{'trouble maker', 'terrible hat'}"
+life vest,{0},"{'lifeline', 'flotation device'}"
+mailing list,{1},{'address list'}
+elbow room,{0},"{'space', 'freedom'}"
+call centre,{1},{'answering service'}
+dream ticket,{0},{'ideal opportunity'}
+sacred cow,{0},{'above criticism '}
+disability insurance,{1},{'disability assistance'}
+skin tone,{1},{'skin color'}
+sugar daddy,{0},{'benefactor'}
+wedding day,{1},{'marriage date'}
+peace conference,{1},{'peace meeting'}
+think tank,{0},{'research group'}
+silver lining,"{0, 1}","{'unexpected advantage', 'grey lining'}"
+sitting duck,"{0, 1}","{'easy target', 'seated duck'}"
+goose egg,{0},"{'bump', 'zero score'}"
+loan shark,{0},{'money lender'}
+busy bee,"{0, 1}","{'unavailable bee', 'busy person'}"
+ancient history,"{0, 1}","{'history', 'in the past'}"
+critical review,{1},{'analysis'}
+top dog,{0},{'leader'}
+entrance hall,{1},{'front hall'}
+con artist,{1},{'swindler'}
+cellular phone,{1},{'phone'}
+cooking stove,{1},{'range'}
+computer program,{1},{'software'}
+big fish,"{0, 1}","{'large fish', 'important person'}"
+phone book,{1},{'telephone directory'}
+narrow escape,{1},{'close call'}
+travel guide,{1},{'guidebook'}
+middle school,{1},{'secondary school'}
+labour union,{1},{'workers union'}
+mail service,{1},{'postal service'}
+double dutch,{0},{'nonsense'}
+night owl,{0},{'nocturnal person'}
+blood bath,{0},{'massacre'}
+fresh water,{1},{'clean water'}
+fine line,"{0, 1}","{'thin line', 'subtle difference'}"
+fall guy,{0},{'scapegoat'}
+marketing consultant,{1},{'sales advisor'}
+crocodile tear,{0},{'fake tears'}
+heavy cross,"{0, 1}","{'weighty cross', 'burden'}"
+application form,{1},{'form'}
+brain drain,{0},{'loss of intellectuals'}
+small fry,"{0, 1}","{'insignificant', 'little fry', 'little kid'}"
+law firm,{1},{'lawyer'}
+ground floor,"{0, 1}","{'ground level', 'early stages'}"
+snake oil,{0},{'fake solution'}
+lotus position,{0},{'yoga position'}
+smoke screen,"{0, 1}","{'screen', 'distraction'}"
+injury time,{0},{'extra time'}
+white noise,{0},"{'calming sounds', 'static', 'distracting commotion'}"
+hard shoulder,"{0, 1}","{'football tackle', 'solid shoulder', 'emergency lane'}"
+melting pot,{0},{'mixture'}
+grass root,"{0, 1}","{'ordinary people', 'herb root'}"
+black box,{0},"{'opaque', 'flight recorder'}"
+bull market,{0},{'rising market'}
+crime rate,{1},{'crime levels'}
+number crunching,{0},{'calculations'}
+radioactive material,{1},{'hazardous substance'}
+football season,{1},{'sport season'}
+case study,{1},{'study'}
+big picture,{0},{'whole situation'}
+music festival,{1},{'shows'}
+eye candy,{0},{'pleasing image'}
+ivory tower,{0},{'privileged seclusion'}
+damp squib,{0},{'disapointment'}
+grandfather clock,{0},{'clock'}
+baby blues,"{0, 1}","{'depression', 'blue eyes'}"
+hard drive,{0},{'computer storage'}
+music journalist,{1},{'music reporter'}
+cash cow,{0},{'steady income'}
+contact lens,{0},{'eye lens'}
+graduate student,{1},{'student'}
+honey trap,{0},{'lure'}
+nest egg,"{0, 1}","{'monetary fund', 'roost egg'}"
+interest rate,{1},{'profit rate'}
+silver spoon,"{0, 1}","{'metal spoon', 'privileged background'}"
+glass ceiling,"{0, 1}","{'mirror ceiling', 'barrier'}"
+pipe dream,{0},{'unrealistic'}
+beauty sleep,{0},{'sufficient restful sleep'}
+polo shirt,{1},{'shirt'}
+double cross,"{0, 1}","{'betrayal', 'two cross-mark'}"
+snail mail,{0},{'postal service'}
+graveyard shift,{0},{'night shift'}
+incubation period,{1},{'time to incubate'}
+agony aunt,{0},{'newspaper columnist'}
+swimming pool,{1},{'pool'}
+fairy tale,{0},"{""children's story"", 'fabricated story'}"
+human being,{1},{'person'}
+blue blood,"{0, 1}","{'azure lifeblood', 'noble'}"
+tear gas,{0},{'chemical weapon'}
+shelf life,{1},{'expiration date'}
+flea market,{0},{'secondhand market'}
+shrinking violet,{0},{'shy person'}
+rat race,{0},{'exhausting routine'}
+gold mine,"{0, 1}","{'mine', 'source of fortune'}"
+hot potato,{0},"{'controversial issue', 'awkward situation'}"
+love song,{1},{'romantic music'}
+brass ring,"{0, 1}","{'metal ring', 'prize'}"
+bank account,{1},{'bank fund'}
+acid test,"{0, 1}","{'conclusive test', 'acidic test'}"
+freudian slip,{0},{'subconscious confession'}
+lip service,{0},{'insincere agreement'}
+cable car,{1},{'trolley'}
+black operation,{0},{'covert operation'}
+climate change,{1},{'change in climate'}
+backroom boy,{0},{'anonymous worker'}
+noise complaint,{1},{'protest'}
+stag night,{0},{'bachelor party'}
+calendar month,{1},{'period'}
+traffic control,{1},{'transportation management'}
+monkey business,{0},{'mischievous behaviour'}
+big cheese,"{0, 1}","{'sizeable cheese', 'important entity'}"
+guilt trip,{0},"{'feeling guilt', 'make feel guilty'}"
+fair play,{0},{'integrity'}
+research project,{1},{'project'}
+day shift,{1},{'daytime work'}
+web site,{1},{'internet site'}
+rainy season,{1},{'wet season'}
+medical procedure,{1},{'operation'}
+double whammy,{1},{'dual threat'}
+arcade game,{1},{'video game'}
+rocket science,"{0, 1}","{'projectile knowledge', 'difficult problem'}"
+computer expert,{1},{'computer specialist'}
+basket case,{0},"{'in economic difficulties', 'crazy person'}"
+credit card,{1},{'monetary card'}
+brick wall,"{0, 1}","{'wall', 'difficult obstacle'}"
+ghost town,{0},{'abandoned town'}
+social insurance,{1},{'government assistance'}
+civil marriage,{1},{'legal marriage'}
+box office,{0},{'movie industry'}
+end user,{1},{'user'}
+cocoa butter,{1},{'moisturizer'}
+silver screen,{0},{'cinema'}
+crash course,{0},{'intensive course'}
+blind alley,{0},"{'lane without outlet', 'position without hope'}"
+speed trap,{0},{'speed check'}
+job fair,{1},{'career expo'}
+game plan,{1},{'plan'}
+cloud nine,{0},{'ecstatic'}
+cocktail dress,{0},{'formal dress'}
+pain killer,{0},{'analgesics'}
+balance sheet,{0},{'financial statement'}
+jet lag,{0},{'travel fatigue'}
+spelling bee,{1},{'spelling contest'}
+big wig,"{0, 1}","{'large wig', 'important person'}"
+head teacher,{0},{'headmaster'}
+rush hour,{1},{'busy time'}
+silver bullet,{0},{'guaranteed solution'}
+smoking gun,{0},{'conclusive evidence'}
+bankruptcy proceeding,{1},{'court case'}
+spinning jenny,{0},{'thread maker'}
+information age,{1},{'digital era'}
+health insurance,{1},{'insurance'}
+biological clock,{0},"{'life cycle', 'circadian rhythm'}"
+memory lane,{0},{'past'}
+car park,{0},{'parking lot'}
+field work,{0},"{'temporary fortification', 'practical acadamic work'}"
+smoking jacket,{0},{'formal jacket'}
+copy cat,{0},{'imitator'}
+white spirit,{0},{'cleaning liquid'}
+insider trading,{0},{'illegal trading'}
+role model,{0},{'inspiration'}
+dark horse,{0},{'unexpected winner'}
+winter solstice,{1},{'shortest day'}
+dutch courage,{0},{'alcoholic courage'}
+couch potato,{0},{'lazy person'}
+radioactive waste,{1},{'toxic trash'}
+china clay,{0},{'fine clay'}
+radio station,{1},{'radio broadcaster'}
+rock bottom,{0},{'worst situation'}
+zebra crossing,{0},{'pedestrian crossing'}
+kangaroo court,{0},{'unauthorized court'}
+head hunter,{0},"{'recruiter', 'hunter', 'baseball pitcher'}"
+peace talk,{0},{'peace negotiation'}
+rat run,"{0, 1}","{'small road', 'rodent run'}"
+low profile,"{0, 1}","{'avoiding attention', 'flat profile'}"
+poison pill,"{0, 1}","{'poison tablet', 'takeover prevention strategy'}"
+video game,{1},{'game'}
+fashion plate,{0},{'fashion icon'}
+blame game,{0},{'exchanged accusations'}
+speed limit,{1},{'maximum speed'}
+hen party,{0},{'bachelorette party'}
+world conference,{1},{'global meeting'}
+front runner,{0},{'favourite'}
+health care,{1},{'preventive medicine'}
+leap year,{0},{'bissextile year'}
+cutting edge,"{0, 1}","{'most advanced', 'slicing edge'}"
+parking lot,{1},{'car park'}
+gravy train,{0},{'easy income'}
+search engine,{1},{'searching program'}
+best man,"{0, 1}","{'groomsman', 'optimal man'}"
+cheat sheet,{0},{'quick reference'}
+pecking order,{0},{'hiearchical order'}

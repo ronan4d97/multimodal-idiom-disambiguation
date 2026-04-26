@@ -1,0 +1,2 @@
+#Ignore the dataset directory, which may contain large files that are not suitable for version control.
+dataset/images_dataset/
