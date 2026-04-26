@@ -1,8 +1,9 @@
+# A piece of cake is not always sweet: detecting idiomatic language use
 # Multimodal Idiom Sense Disambiguation
 
 ## Overview
 
-This repository contains the code submission for the COM6906 dissertation project on multimodal idiom sense disambiguation. The project investigates the integration of textual and visual modalities to improve the disambiguation of English multi-word expressions (MWEs) or idioms.
+This repository contains the code for my MSc dissertation project on multimodal idiom sense disambiguation. The project investigates the integration of textual and visual modalities to improve the disambiguation of English multi-word expressions (MWEs) or idioms.
 
 The approach combines:
 - **Textual Analysis**: Using DistilBERT for processing textual context and idiom representations.
@@ -13,11 +14,9 @@ The approach combines:
 
 ```
 .
-├── dataset/                    # Dataset files (excluded from this repo)
+├── dataset/                    # Training dataset
 │   ├── multimodal_train_json.csv
 │   ├── train_json.csv
-│   └── images_dataset/
-│       └── classes/            # Scraped images organized by idiom and sense
 ├── models/                     # Model training and evaluation notebooks
 │   ├── featureFusion.ipynb     # Multimodal fusion model combining text and image features
 │   ├── inception_v3.ipynb      # Image classification using Inception v3
@@ -37,8 +36,6 @@ The approach combines:
 The dataset consists of:
 - **Text Data**: CSV files containing idioms, their contexts, and sense labels (idiomatic vs. literal, and fine-grained senses).
 - **Image Data**: Images scraped from Google Images for each idiom, organized by sense categories.
-
-Note: The `dataset/` folder is not included in this repository due to size constraints.
 
 ## Models
 
@@ -88,7 +85,7 @@ Note: The `dataset/` folder is not included in this repository due to size const
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multimodal-idiom-disambiguation.git
+   git clone https://github.com/ronan4d97/multimodal-idiom-disambiguation.git
    cd multimodal-idiom-disambiguation
    ```
 
@@ -121,9 +118,3 @@ The multimodal fusion approach shows improved performance over unimodal baseline
 ## License
 
 This project is part of a dissertation submission. Please contact the author for usage permissions.
-
-## Author
-
-Student ID: 200205795
-Module: COM6906</content>
-<parameter name="filePath">d:\Dissertation Project\200205795_COM6906_Code_Submission\README.md
