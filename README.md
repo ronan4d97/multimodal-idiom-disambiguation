@@ -1,5 +1,4 @@
-# A piece of cake is not always sweet: detecting idiomatic language use
-# Multimodal Idiom Sense Disambiguation
+# Multimodal Idiom Sense Disambiguation - A piece of cake is not always sweet: detecting idiomatic language use
 
 ## Overview
 
