@@ -90,7 +90,7 @@ The dataset consists of:
 
 2. Install dependencies:
    ```bash
-   pip install torch torchvision transformers pandas numpy pillow selenium
+   pip install -r requirements.txt
    ```
 
 3. Download ChromeDriver and place it in the appropriate path (as specified in the scraping notebook).
